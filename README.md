@@ -1,5 +1,8 @@
 # basic-website-template
 
+## Acknowledgment
+This project was created as part of a course by Andrei Neagoie to practice HTML and CSS fundamentals.
+
 ## Overview
 A simple multi-section website created to practice HTML structure and CSS styling fundamentals.
 
